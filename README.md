@@ -14,4 +14,4 @@ collected while "depression" posts were collected from Jan 1,
 2009, to Jan 2, 2021.
 
 ## Model Exploration
-I have used pretrained bert tokenizer to encode text and tired multiple models including Logistic Regression(71.8% Accuracy), LightGBM(82.2% Accuracy), XGBoost(85,7% Accuracy), CatBoost(85.7% Accuracy), pretrained BERT Classifier with fine-tuning(97.4%)
+I have used pretrained bert tokenizer to encode text and tried multiple models including Logistic Regression(71.8% Accuracy), LightGBM(82.2% Accuracy), XGBoost(85,7% Accuracy), CatBoost(85.7% Accuracy), Pretrained BERT Classifier with fine-tuning(97.4%)
