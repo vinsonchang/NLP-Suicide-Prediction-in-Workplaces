@@ -17,4 +17,5 @@ collected while "depression" posts were collected from Jan 1,
 I have used pretrained bert tokenizer to encode text and tried multiple models including Logistic Regression(71.8% Accuracy), LightGBM(82.2% Accuracy), XGBoost(85,7% Accuracy), CatBoost(85.7% Accuracy), Pretrained BERT Classifier with fine-tuning(97.4%)
 
 For the full report, please check out "Suicide Prdiction in Workplaces(NLP).pdf". 
+
 For the code details, please check out "Suicide Prediciton(NLP).ipynb". 
